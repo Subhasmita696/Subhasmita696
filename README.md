@@ -6,7 +6,6 @@
 
 <h3 align="center">
   Helping organizations build robust CI/CD pipelines and scalable infrastructure using tools like AWS, Azure, Terraform, Kubernetes, GitLab, Jenkins, and Ansible.<br>
-
 </h3>
 
 <p align="center">
@@ -44,8 +43,24 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- Your tech stack icons here -->
+  <!-- Add your icons here -->
 </p>
+
+---
+
+<h3 align="center">🎉 DevOps Tools Dancefloor 💃🕺</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Docker" width="80" />
+  <img src="https://media.giphy.com/media/2v170e71aanfi/giphy.gif" alt="Kubernetes" width="80" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Jenkins" width="80" />
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Terraform" width="80" />
+  <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" alt="Prometheus" width="80" />
+  <img src="https://media.giphy.com/media/xT0Gqz5B2p4XWz5foc/giphy.gif" alt="Grafana" width="80" />
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="AWS" width="80" />
+  <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" alt="Azure" width="80" />
+</p>
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subha-devops-design&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
 
