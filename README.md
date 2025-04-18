@@ -48,18 +48,6 @@
 
 ---
 
-<h3 align="center">🎉 DevOps Tools </h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Docker Dancing" width="80" />
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0zSDk/giphy.gif" alt="Kubernetes Dancing" width="80" />
-  <img src="https://media.giphy.com/media/gw3IWyGkC0rsazTi/giphy.gif" alt="Jenkins Dancing" width="80" />
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Terraform Dancing" width="80" />
-  <img src="https://media.giphy.com/media/xT1Ra4LzU1rcGNyYBa/giphy.gif" alt="Prometheus Dancing" width="80" />
-  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" alt="Grafana Dancing" width="80" />
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="AWS Dancing" width="80" />
-  <img src="https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif" alt="Azure Dancing" width="80" />
-</p>
-
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subha-devops-design&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
