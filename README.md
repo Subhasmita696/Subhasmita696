@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Subhasmita Das</h1>
 
 <div align="center">
-  <img src="https://pplx-res.cloudinary.com/image/private/user_uploads/PfAHsosDfYGjDho/my-banner.jpg" alt="Subhasmita Das DevOps Banner" />
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/my%20banner.jpg" alt="Subhasmita Das DevOps Banner" />
 </div>
 
 <h3 align="center">
@@ -35,9 +35,6 @@
   <a href="https://www.linkedin.com/in/subhasmita-das-a582b4171/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/devopsshack" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
   <a href="https://medium.com/@subhasmitadas696" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
   </a>
@@ -67,7 +64,7 @@
 🎤 Available for **Guest Sessions / Webinars**  
 🤝 Open to **Project Collaborations**  
 💼 Offering **DevOps Consulting / Mentorship**  
-📧 Let’s chat: [office@devopsshack.com](mailto:office@devopsshack.com)
+📧 Let’s chat: subhasmitadas696@gmail.com
 
 > *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
 
