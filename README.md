@@ -10,10 +10,10 @@
 
 <p align="center">
    <a href="https://github.com/subha-devops-design">
-     <img src="https://img.shields.io/github/followers/subha-devops-design?label=Follow&style=social" />
+     <img src="https://img.shields.io/github/followers/subha-devops-design?label=Follow&style=social" alt="GitHub Followers" />
    </a>
    <a href="https://www.linkedin.com/in/subhasmita-das-a582b4171/">
-     <img src="https://img.shields.io/badge/LinkedIn-Subhasmita%20Das-blue?logo=linkedin&style=flat-square" />
+     <img src="https://img.shields.io/badge/LinkedIn-Subhasmita%20Das-blue?logo=linkedin&style=flat-square" alt="LinkedIn" />
    </a>
 </p>
 
@@ -67,8 +67,8 @@
 
 ---
 
-### 🔥 GitHub Contribution Streak
-![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
+### GitHub Contribution Streak 🔥
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subha-devops-design)](https://git.io/streak-stats)
 
 ---
 
