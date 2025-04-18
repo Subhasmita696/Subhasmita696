@@ -26,7 +26,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/subha-devops-design](https://github.com/subha-devops-design)  
 - 💬 Ask me about **DevOps & Cloud DevOps**  
-- 📫 How to reach me: **office@devopsshack.com**
+- 📫 How to reach me: **subhasmitadas696@gmail.com**
 
 ---
 
