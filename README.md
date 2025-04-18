@@ -48,16 +48,16 @@
 
 ---
 
-<h3 align="center">🎉 DevOps Tools Dancefloor 💃🕺</h3>
+<h3 align="center">🎉 DevOps Tools </h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Docker" width="80" />
-  <img src="https://media.giphy.com/media/2v170e71aanfi/giphy.gif" alt="Kubernetes" width="80" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Jenkins" width="80" />
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Terraform" width="80" />
-  <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" alt="Prometheus" width="80" />
-  <img src="https://media.giphy.com/media/xT0Gqz5B2p4XWz5foc/giphy.gif" alt="Grafana" width="80" />
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="AWS" width="80" />
-  <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" alt="Azure" width="80" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Docker Dancing" width="80" />
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0zSDk/giphy.gif" alt="Kubernetes Dancing" width="80" />
+  <img src="https://media.giphy.com/media/gw3IWyGkC0rsazTi/giphy.gif" alt="Jenkins Dancing" width="80" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Terraform Dancing" width="80" />
+  <img src="https://media.giphy.com/media/xT1Ra4LzU1rcGNyYBa/giphy.gif" alt="Prometheus Dancing" width="80" />
+  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" alt="Grafana Dancing" width="80" />
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="AWS Dancing" width="80" />
+  <img src="https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif" alt="Azure Dancing" width="80" />
 </p>
 
 ---
