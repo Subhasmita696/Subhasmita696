@@ -5,8 +5,8 @@
 </div>
 
 <h3 align="center">
-  A passionate DevOps Engineer from India, now in Stockholm, Sweden.<br>
-  I work in the Corporate IT Sector.
+  Helping organizations build robust CI/CD pipelines and scalable infrastructure using tools like AWS, Azure, Terraform, Kubernetes, GitLab, Jenkins, and Ansible.<br>
+
 </h3>
 
 <p align="center">
