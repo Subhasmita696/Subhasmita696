@@ -1,52 +1,46 @@
 <h1 align="center">Hey Everyone 👋, I'm Subhasmita Das</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Subhasmita696/Subhasmita696/test/my%20banner.jpg" alt="Subhasmita Das DevOps Banner" />
+   <img src="https://raw.githubusercontent.com/Subhasmita696/Subhasmita696/test/my%20banner.jpg" alt="Subhasmita Das DevOps Banner" />
 </div>
 
 <h3 align="center">
-  Helping organizations build robust CI/CD pipelines and scalable infrastructure using tools like AWS, Azure, Terraform, Kubernetes, GitLab, Jenkins, and Ansible.<br>
+   Helping organizations build robust CI/CD pipelines and scalable infrastructure using tools like AWS, Azure, Terraform, Kubernetes, GitLab, Jenkins, and Ansible.<br>
 </h3>
 
 <p align="center">
-  <a href="https://github.com/subha-devops-design">
-    <img src="https://img.shields.io/github/followers/subha-devops-design?label=Follow&style=social" />
-  </a>
-  <a href="https://www.linkedin.com/in/subhasmita-das-a582b4171/">
-    <img src="https://img.shields.io/badge/LinkedIn-Subhasmita%20Das-blue?logo=linkedin&style=flat-square" />
-  </a>
+   <a href="https://github.com/subha-devops-design">
+     <img src="https://img.shields.io/github/followers/subha-devops-design?label=Follow&style=social" />
+   </a>
+   <a href="https://www.linkedin.com/in/subhasmita-das-a582b4171/">
+     <img src="https://img.shields.io/badge/LinkedIn-Subhasmita%20Das-blue?logo=linkedin&style=flat-square" />
+   </a>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=subha-devops-design&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+   <img src="https://komarev.com/ghpvc/?username=subha-devops-design&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/subha-devops-design](https://github.com/subha-devops-design)  
-- 💬 Ask me about **DevOps & Cloud DevOps**  
+- 👨‍💻 All of my projects are available at [https://github.com/subha-devops-design](https://github.com/subha-devops-design)
+- 💬 Ask me about **DevOps & Cloud DevOps**
 - 📫 How to reach me: **subhasmitadas696@gmail.com**
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/subhasmita-das-a582b4171/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@subhasmitadas696" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-  </a>
+   <a href="https://www.linkedin.com/in/subhasmita-das-a582b4171/" target="_blank">
+     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+   </a>
+   <a href="https://medium.com/@subhasmitadas696" target="_blank">
+     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Add your icons here -->
-</p>
-
----
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -64,6 +58,7 @@
    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
    <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
 </p>
+
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subha-devops-design&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
@@ -73,13 +68,11 @@
 ---
 
 ### 🔥 GitHub Contribution Streak
-
 ![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
 
 ---
 
 ### 👨‍💼 About Me & 🤝 Open to Collaborations
-
 🎤 Available for **Guest Sessions / Webinars**  
 🤝 Open to **Project Collaborations**  
 💼 Offering **DevOps Consulting / Mentorship**  
