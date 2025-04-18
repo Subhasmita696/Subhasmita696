@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Subhasmita Das</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/my%20banner.jpg" alt="Subhasmita Das DevOps Banner" />
+  <img src="https://raw.githubusercontent.com/Subhasmita696/Subhasmita696/test/my%20banner.jpg" alt="Subhasmita Das DevOps Banner" />
 </div>
 
 <h3 align="center">
@@ -44,7 +44,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- Your tech stack icons here, unchanged -->
+  <!-- Your tech stack icons here -->
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subha-devops-design&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
